@@ -71,7 +71,7 @@ html{
 
 .header-left-user--nickname{
     display: flex;
-    margin-top: 8px;
+    margin: 15px;
     color: rgb(75, 75, 82);
 }
 
