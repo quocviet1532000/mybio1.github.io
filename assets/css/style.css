@@ -292,7 +292,7 @@ html{
     content: '';
     height: 5px;
     width: 22%;
-    background-image: linear-gradient( 142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -309,7 +309,7 @@ html{
     content: '';
     height: 5px;
     width: 34%;
-    background-image: linear-gradient( 142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -326,7 +326,7 @@ html{
     content: '';
     height: 5px;
     width: 32%;
-    background-image: linear-gradient( 142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -523,8 +523,7 @@ html{
     content: '';
     height: 5px;
     width: 21%;
-    background-image: linear-gradient( 
-142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -543,8 +542,7 @@ html{
     content: '';
     height: 5px;
     width: 26%;
-    background-image: linear-gradient( 
-142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -563,8 +561,7 @@ html{
     content: '';
     height: 5px;
     width: 30%;
-    background-image: linear-gradient( 
-142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+   background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -730,8 +727,7 @@ html{
     content: '';
     height: 5px;
     width: 20%;
-    background-image: linear-gradient( 
-142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -759,8 +755,7 @@ html{
     content: '';
     height: 3px;
     width: 12%;
-    background-image: linear-gradient( 
-142.17deg,#cc2daa 6.66%,#1cce75 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 95%;
     border-radius: 25px;
 }
@@ -828,8 +823,7 @@ html{
     content: '';
     height: 5px;
     width: 20%;
-    background-image: linear-gradient( 
-142.17deg,#cc2dc4 6.66%,#cead1c 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 110%;
     border-radius: 25px;
 }
@@ -858,8 +852,7 @@ html{
     content: '';
     height: 3px;
     width: 14%;
-    background-image: linear-gradient( 
-142.17deg,#cc2daa 6.66%,#1cce75 91.48%);
+    background-image: linear-gradient(135deg, #72EDF2 10%, #5151E5 100%);
     top: 95%;
     border-radius: 25px;
 }
